@@ -1,4 +1,4 @@
-Run a boxstarter script that installs a memory scanner and debugger.
+Run a boxstarter script that installs a memory scanner, debugger and firefox.
 
 # How to use
 Run the following two scripts in powershell:
