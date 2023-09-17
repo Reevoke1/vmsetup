@@ -3,3 +3,4 @@ Enable-RemoteDesktop
 
 cinst cheatengine --version=7.5
 cinst x64dbg.portable
+cinst firefox
